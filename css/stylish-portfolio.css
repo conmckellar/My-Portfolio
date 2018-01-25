@@ -41,6 +41,10 @@ body {
    -1px -1px 2px white;
 }
 
+h3 {
+  font-size: 180%;
+}
+
 
 /* Custom Button Styles */
 
@@ -227,6 +231,10 @@ hr.small {
 
 .img-portfolio:hover {
   opacity: .8;
+}
+
+.img-me {
+  border: 2px solid white;
 }
 
 
