@@ -42,9 +42,9 @@ body {
 }
 
 h3 {
-  font-size: 180%;
+  font-size: 175%;
+  margin-right: 12%;
 }
-
 
 /* Custom Button Styles */
 
@@ -235,6 +235,7 @@ hr.small {
 
 .img-me {
   border: 2px solid white;
+  margin-left: 18px;
 }
 
 
